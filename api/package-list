@@ -1,0 +1,6 @@
+edu.berkeley.atdp.java.game
+edu.berkeley.atdp.java.game.character
+edu.berkeley.atdp.java.game.logic
+edu.berkeley.atdp.java.game.pong
+edu.berkeley.atdp.java.game.pong.character
+edu.berkeley.atdp.java.game.pong.logic
